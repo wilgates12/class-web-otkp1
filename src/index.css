@@ -404,9 +404,9 @@ input:focus {
 #Footer {
 	background: linear-gradient(
 		to top,
-		rgb(34, 162, 167) 5%,
-		rgb(9, 85, 78) 55%,
-		rgb(7, 59, 67)
+		rgb(11, 70, 72) 5%,
+		rgb(44, 84, 80) 55%,
+		rgb(15, 16, 16)
 	);
 }
 
